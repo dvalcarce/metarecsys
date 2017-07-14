@@ -65,6 +65,11 @@ $ java -server -jar target/metarecsys-1.0.0-jar-with-dependencies.jar -alg borda
 ```
 
 
+## Acknowledgments
+
+This work has received financial support from the i) *Ministerio de Economía y Competitividad* of the Government of Spain and the ERDF (project TIN2015-64282-R), ii) Xunta de Galicia – *Consellería de Cultura, Educación e Ordenación Universitaria* (project GPC ED431B 2016/035), iii) Xunta de Galicia – *Consellería de Cultura, Educación e Ordenación Universitaria* and the ERDF (*Centro Singular de Investigación de Galicia* accreditation 2016-2019 ED431G/01) and iv) *Ministerio de Educación, Cultura y Deporte* of the Government of Spain (grant FPU014/01724).
+
+
 ## Author
 
 Daniel Valcarce  
